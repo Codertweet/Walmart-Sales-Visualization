@@ -31,7 +31,7 @@ Unlocking the power of data visualization, this project dives deep into Walmart'
 From bar plots and line graphs to distribution charts, our visual analysis highlights seasonal patterns, sales fluctuations, and growth opportunities across departments and time periods. The project culminates in building a predictive model that forecasts weekly sales, enabling smarter business decisions and forward-looking strategies.
 Whether you're a data analyst, business strategist, or ML enthusiast, this project offers a hands-on journey through visual storytelling and sales forecasting.
 
-## Project Tasks
+ ## Project Tasks
    1. Introduction
       * Get Started
       * Import Libraries and Modules
@@ -51,6 +51,7 @@ Whether you're a data analyst, business strategist, or ML enthusiast, this proje
       * Visualize the Correlation between Sales and Holiday
       * Visualize the Correlation between Sales and Economic Factors
       * Visualize the Correlation between Sales and Markdowns
+        
     4. Sales Forecast Modelling
       * Perform Feature Extraction
       * Perform Label Encoding
