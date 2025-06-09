@@ -45,10 +45,8 @@ Whether you're a data analyst, business strategist, or ML enthusiast, this proje
       * Normalize Data
 
    3. Data Visualization
-
-Task 8: Visualize Sales Seasonality
-
-Task 9: Visualize Sales Performance by Type
+      * Visualize Sales Seasonality
+      * Visualize Sales Performance by Type
 
 Task 10: Visualize Sales Performance by Store
 
