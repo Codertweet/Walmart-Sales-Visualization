@@ -42,38 +42,21 @@ Whether you're a data analyst, business strategist, or ML enthusiast, this proje
       * Remove Duplicate Column
       * Remove Outliers
       * Normalize Data
-   3. Data Visualization
-
-Task 8: Visualize Sales Seasonality
-
-Task 9: Visualize Sales Performance by Type
-
-Task 10: Visualize Sales Performance by Store
-
-Task 11: Visualize Sales Performance by Department
-
-Task 12: Visualize the Correlation Between Sales and Temperature
-
-Task 13: Visualize the Correlation between Sales and Holiday
-
-Task 14: Visualize the Correlation between Sales and Economic Factors
-
-Task 15: Visualize the Correlation between Sales and Markdowns
-
-4
-
-Sales Forecast Modelling
-
-Task 16: Perform Feature Extraction
-
-Task 17: Perform Label Encoding
-
-Task 18: Perform Feature Engineering
-
-Task 19: Train a Model
-
-Task 20: Forecast Sales Using Model
-
-Task 21: Visualize the Model’s Predictions
+    3. Data Visualization
+      * Visualize Sales Seasonality
+      * Visualize Sales Performance by Type
+      * Visualize Sales Performance by Store
+      * Visualize Sales Performance by Department
+      * Visualize the Correlation Between Sales and Temperature
+      * Visualize the Correlation between Sales and Holiday
+      * Visualize the Correlation between Sales and Economic Factors
+      * Visualize the Correlation between Sales and Markdowns
+    4. Sales Forecast Modelling
+      * Perform Feature Extraction
+      * Perform Label Encoding
+      * Perform Feature Engineering
+      * Train a Model
+      * Forecast Sales Using Model
+      * Visualize the Model’s Predictions
 
 Congratulations!
