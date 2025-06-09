@@ -3,23 +3,17 @@ In this project, we’ll leverage the seaborn and other libraries to analyze Wal
 
 ## You will learn to:
    * Perform data cleaning to remove outliers and null values.
-Transform raw data into a usable format for data visualization.
+   * Transform raw data into a usable format for data visualization.  
+   * Visualize the correlation between sales and external factors.*
+   * Visualize past sales data to help identify sales trends.
 
-Visualize the correlation between sales and external factors.
+## Skills
+   * Data Visualization
+   * Data Analysis
+   * Data Manipulation
+   * Machine Learning
 
-Visualize past sales data to help identify sales trends.
-
-Skills
-
-Data Visualization
-
-Data Analysis
-
-Data Manipulation
-
-Machine Learning
-
-Prerequisites
+ ## Prerequisites
 
 Hands-on experience with Python
 
