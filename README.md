@@ -1,10 +1,8 @@
 # Walmart-Sales-Visualization
 In this project, we’ll leverage the seaborn and other libraries to analyze Walmart sales data by creating visualizations that can help with sales projections.
 
-You will learn to:
-
-Perform data cleaning to remove outliers and null values.
-
+## You will learn to:
+   * Perform data cleaning to remove outliers and null values.
 Transform raw data into a usable format for data visualization.
 
 Visualize the correlation between sales and external factors.
