@@ -43,23 +43,6 @@ Whether you're a data analyst, business strategist, or ML enthusiast, this proje
       * Remove Duplicate Column
       * Remove Outliers
       * Normalize Data
-        
-    3. Data Visualization
-      * Visualize Sales Seasonality
-      * Visualize Sales Performance by Type
-      * Visualize Sales Performance by Store
-      * Visualize Sales Performance by Department
-      * Visualize the Correlation Between Sales and Temperature
-      * Visualize the Correlation between Sales and Holiday
-      * Visualize the Correlation between Sales and Economic Factors
-      * Visualize the Correlation between Sales and Markdowns
-      
-    4. Sales Forecast Modelling
-      * Perform Feature Extraction
-      * Perform Label Encoding
-      * Perform Feature Engineering
-      * Train a Model
-      * Forecast Sales Using Model
-      * Visualize the Model’s Predictions
+
 
 Congratulations!
