@@ -51,7 +51,6 @@ Whether you're a data analyst, business strategist, or ML enthusiast, this proje
       * Visualize the Correlation between Sales and Holiday
       * Visualize the Correlation between Sales and Economic Factors
       * Visualize the Correlation between Sales and Markdowns
-        
     4. Sales Forecast Modelling
       * Perform Feature Extraction
       * Perform Label Encoding
