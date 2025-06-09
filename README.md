@@ -38,18 +38,11 @@ Whether you're a data analyst, business strategist, or ML enthusiast, this proje
       * Load the Datasets
    2. Data Transformation
       * Handle Missing Values
-
-Task 4: Merge the Datasets
-
-Task 5: Remove Duplicate Column
-
-Task 6: Remove Outliers
-
-Task 7: Normalize Data
-
-3
-
-Data Visualization
+      * Merge the Datasets
+      * Remove Duplicate Column
+      * Remove Outliers
+      * Normalize Data
+   3. Data Visualization
 
 Task 8: Visualize Sales Seasonality
 
