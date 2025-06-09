@@ -36,12 +36,14 @@ Whether you're a data analyst, business strategist, or ML enthusiast, this proje
       * Get Started
       * Import Libraries and Modules
       * Load the Datasets
+        
    2. Data Transformation
       * Handle Missing Values
       * Merge the Datasets
       * Remove Duplicate Column
       * Remove Outliers
       * Normalize Data
+        
     3. Data Visualization
       * Visualize Sales Seasonality
       * Visualize Sales Performance by Type
@@ -51,6 +53,7 @@ Whether you're a data analyst, business strategist, or ML enthusiast, this proje
       * Visualize the Correlation between Sales and Holiday
       * Visualize the Correlation between Sales and Economic Factors
       * Visualize the Correlation between Sales and Markdowns
+      
     4. Sales Forecast Modelling
       * Perform Feature Extraction
       * Perform Label Encoding
