@@ -44,5 +44,23 @@ Whether you're a data analyst, business strategist, or ML enthusiast, this proje
       * Remove Outliers
       * Normalize Data
 
+   3. Data Visualization
+
+Task 8: Visualize Sales Seasonality
+
+Task 9: Visualize Sales Performance by Type
+
+Task 10: Visualize Sales Performance by Store
+
+Task 11: Visualize Sales Performance by Department
+
+Task 12: Visualize the Correlation Between Sales and Temperature
+
+Task 13: Visualize the Correlation between Sales and Holiday
+
+Task 14: Visualize the Correlation between Sales and Economic Factors
+
+Task 15: Visualize the Correlation between Sales and Markdowns
+
 
 Congratulations!
