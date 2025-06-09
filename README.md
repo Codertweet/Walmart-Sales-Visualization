@@ -14,27 +14,19 @@ In this project, we’ll leverage the seaborn and other libraries to analyze Wal
    * Machine Learning
 
  ## Prerequisites
+   * Hands-on experience with Python
+   * Basic understanding of data visualization
+   * Familiarity with scikit-learn
 
-Hands-on experience with Python
+ ##Technologies
+   * Python
+   * Pandas
+   * seaborn
+   * Matplotlib
+   * scikit
+   * Scikit-learn
 
-Basic understanding of data visualization
-
-Familiarity with scikit-learn
-
-Technologies
-
-Python
-
-Pandas
-
-seaborn
-
-Matplotlib
-
-scikit
-Scikit-learn
-
-Project Description
+ ##Project Description
 
 Data visualization is essential for analyzing sales projections because it turns raw data into insights, providing a clear depiction of the trends that drive business success. These visualizations empower business stakeholders to leverage their data effectively, ensuring sales projections are not only informed by past performance but also offer insights into potential future trajectories.
 
